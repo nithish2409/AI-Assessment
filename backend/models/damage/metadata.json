@@ -1,0 +1,71 @@
+{
+  "model_name": "YOLO26s-seg Crack Segmentor",
+  "architecture": "YOLO26s-seg",
+  "task": "segment",
+  "num_classes": 1,
+  "classes": {
+    "0": "crack"
+  },
+  "source_dataset": {
+    "name": "crack-seg",
+    "total_images": 4029,
+    "train_images": 3717,
+    "val_images": 200,
+    "test_images": 112,
+    "leakage_free": true
+  },
+  "training_hyperparameters": {
+    "base_checkpoint": "yolo26s-seg.pt",
+    "epochs_trained": 50,
+    "best_epoch": 47,
+    "batch_size": 8,
+    "image_size": 640,
+    "optimizer": "AdamW",
+    "lr0": 0.001,
+    "lrf": 0.01,
+    "seed": 42,
+    "amp": true,
+    "device": "CUDA:0 (NVIDIA GeForce RTX 4060 Laptop GPU)",
+    "training_duration": "1h 20m 08s"
+  },
+  "validation_metrics": {
+    "box_precision": 0.8720,
+    "box_recall": 0.7230,
+    "box_map50": 0.8210,
+    "box_map50_95": 0.6400,
+    "mask_precision": 0.7890,
+    "mask_recall": 0.6590,
+    "mask_map50": 0.7252,
+    "mask_map50_95": 0.2588
+  },
+  "held_out_test_metrics": {
+    "box_precision": 0.8300,
+    "box_recall": 0.7030,
+    "box_map50": 0.7590,
+    "box_map50_95": 0.5940,
+    "mask_precision": 0.7980,
+    "mask_recall": 0.6622,
+    "mask_map50": 0.6768,
+    "mask_map50_95": 0.2560,
+    "pixel_precision": 0.7712,
+    "pixel_recall": 0.7628,
+    "pixel_iou": 0.6220,
+    "pixel_dice": 0.7670
+  },
+  "deployment_specifications": {
+    "checkpoint_file": "crack_segmentation_best.pt",
+    "checkpoint_size_mb": 22.26,
+    "recommended_imgsz": 640,
+    "recommended_conf_threshold": 0.25,
+    "recommended_iou_threshold": 0.45,
+    "gpu_inference_latency_ms": 13.76,
+    "gpu_inference_fps": 72.7,
+    "peak_vram_mb": 225.10
+  },
+  "known_limitations": [
+    "Sub-pixel / hairline micro-cracks (<1-2 mm width) can be missed at 640px downsampled resolution.",
+    "Sharp cast shadows from scaffolding or structural joints can occasionally produce false positive boundaries.",
+    "Formwork tie-rod grooves, expansion seams, and mortar joints can be misclassified as cracks if unpainted.",
+    "Spalling is not yet detected; requires multi-class damage annotation in future phases."
+  ]
+}

@@ -1,0 +1,2242 @@
+[
+  {
+    "stem": "image_0000301",
+    "filename": "image_0000301.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000301.jpg",
+    "index": 301,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000310",
+    "filename": "image_0000310.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000310.jpg",
+    "index": 310,
+    "labels": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000313",
+    "filename": "image_0000313.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000313.jpg",
+    "index": 313,
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000316",
+    "filename": "image_0000316.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000316.jpg",
+    "index": 316,
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000317",
+    "filename": "image_0000317.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000317.jpg",
+    "index": 317,
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000318",
+    "filename": "image_0000318.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000318.jpg",
+    "index": 318,
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000319",
+    "filename": "image_0000319.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000319.jpg",
+    "index": 319,
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000321",
+    "filename": "image_0000321.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000321.jpg",
+    "index": 321,
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000323",
+    "filename": "image_0000323.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000323.jpg",
+    "index": 323,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000328",
+    "filename": "image_0000328.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000328.jpg",
+    "index": 328,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000331",
+    "filename": "image_0000331.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000331.jpg",
+    "index": 331,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000332",
+    "filename": "image_0000332.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000332.jpg",
+    "index": 332,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000337",
+    "filename": "image_0000337.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000337.jpg",
+    "index": 337,
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000338",
+    "filename": "image_0000338.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000338.jpg",
+    "index": 338,
+    "labels": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000340",
+    "filename": "image_0000340.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000340.jpg",
+    "index": 340,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000342",
+    "filename": "image_0000342.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000342.jpg",
+    "index": 342,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "group_id": 7
+  },
+  {
+    "stem": "image_0000505",
+    "filename": "image_0000505.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000505.jpg",
+    "index": 505,
+    "labels": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000506",
+    "filename": "image_0000506.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000506.jpg",
+    "index": 506,
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000507",
+    "filename": "image_0000507.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000507.jpg",
+    "index": 507,
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000508",
+    "filename": "image_0000508.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000508.jpg",
+    "index": 508,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000509",
+    "filename": "image_0000509.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000509.jpg",
+    "index": 509,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000511",
+    "filename": "image_0000511.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000511.jpg",
+    "index": 511,
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000512",
+    "filename": "image_0000512.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000512.jpg",
+    "index": 512,
+    "labels": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000513",
+    "filename": "image_0000513.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000513.jpg",
+    "index": 513,
+    "labels": [
+      0,
+      1,
+      1,
+      0,
+      0
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000514",
+    "filename": "image_0000514.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000514.jpg",
+    "index": 514,
+    "labels": [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000516",
+    "filename": "image_0000516.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000516.jpg",
+    "index": 516,
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000517",
+    "filename": "image_0000517.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000517.jpg",
+    "index": 517,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000518",
+    "filename": "image_0000518.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000518.jpg",
+    "index": 518,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000519",
+    "filename": "image_0000519.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000519.jpg",
+    "index": 519,
+    "labels": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000520",
+    "filename": "image_0000520.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000520.jpg",
+    "index": 520,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000521",
+    "filename": "image_0000521.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000521.jpg",
+    "index": 521,
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000522",
+    "filename": "image_0000522.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000522.jpg",
+    "index": 522,
+    "labels": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 14
+  },
+  {
+    "stem": "image_0000580",
+    "filename": "image_0000580.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000580.jpg",
+    "index": 580,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000581",
+    "filename": "image_0000581.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000581.jpg",
+    "index": 581,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000582",
+    "filename": "image_0000582.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000582.jpg",
+    "index": 582,
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000583",
+    "filename": "image_0000583.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000583.jpg",
+    "index": 583,
+    "labels": [
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000584",
+    "filename": "image_0000584.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000584.jpg",
+    "index": 584,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000585",
+    "filename": "image_0000585.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000585.jpg",
+    "index": 585,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000586",
+    "filename": "image_0000586.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000586.jpg",
+    "index": 586,
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000587",
+    "filename": "image_0000587.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000587.jpg",
+    "index": 587,
+    "labels": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000588",
+    "filename": "image_0000588.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000588.jpg",
+    "index": 588,
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000589",
+    "filename": "image_0000589.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000589.jpg",
+    "index": 589,
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000591",
+    "filename": "image_0000591.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000591.jpg",
+    "index": 591,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000592",
+    "filename": "image_0000592.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000592.jpg",
+    "index": 592,
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000593",
+    "filename": "image_0000593.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000593.jpg",
+    "index": 593,
+    "labels": [
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000594",
+    "filename": "image_0000594.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000594.jpg",
+    "index": 594,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000595",
+    "filename": "image_0000595.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000595.jpg",
+    "index": 595,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000596",
+    "filename": "image_0000596.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000596.jpg",
+    "index": 596,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 18
+  },
+  {
+    "stem": "image_0000613",
+    "filename": "image_0000613.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000613.jpg",
+    "index": 613,
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000614",
+    "filename": "image_0000614.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000614.jpg",
+    "index": 614,
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000616",
+    "filename": "image_0000616.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000616.jpg",
+    "index": 616,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000617",
+    "filename": "image_0000617.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000617.jpg",
+    "index": 617,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000618",
+    "filename": "image_0000618.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000618.jpg",
+    "index": 618,
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000619",
+    "filename": "image_0000619.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000619.jpg",
+    "index": 619,
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000620",
+    "filename": "image_0000620.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000620.jpg",
+    "index": 620,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000621",
+    "filename": "image_0000621.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000621.jpg",
+    "index": 621,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000622",
+    "filename": "image_0000622.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000622.jpg",
+    "index": 622,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000623",
+    "filename": "image_0000623.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000623.jpg",
+    "index": 623,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000624",
+    "filename": "image_0000624.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000624.jpg",
+    "index": 624,
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000625",
+    "filename": "image_0000625.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000625.jpg",
+    "index": 625,
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000626",
+    "filename": "image_0000626.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000626.jpg",
+    "index": 626,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000627",
+    "filename": "image_0000627.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000627.jpg",
+    "index": 627,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000628",
+    "filename": "image_0000628.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000628.jpg",
+    "index": 628,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000629",
+    "filename": "image_0000629.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000629.jpg",
+    "index": 629,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "group_id": 20
+  },
+  {
+    "stem": "image_0000646",
+    "filename": "image_0000646.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000646.jpg",
+    "index": 646,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0000647",
+    "filename": "image_0000647.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000647.jpg",
+    "index": 647,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0000648",
+    "filename": "image_0000648.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000648.jpg",
+    "index": 648,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0000649",
+    "filename": "image_0000649.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000649.jpg",
+    "index": 649,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0000650",
+    "filename": "image_0000650.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000650.jpg",
+    "index": 650,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0000651",
+    "filename": "image_0000651.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000651.jpg",
+    "index": 651,
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0000652",
+    "filename": "image_0000652.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000652.jpg",
+    "index": 652,
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0000653",
+    "filename": "image_0000653.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000653.jpg",
+    "index": 653,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0000654",
+    "filename": "image_0000654.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000654.jpg",
+    "index": 654,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0000655",
+    "filename": "image_0000655.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000655.jpg",
+    "index": 655,
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0000656",
+    "filename": "image_0000656.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000656.jpg",
+    "index": 656,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0000657",
+    "filename": "image_0000657.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000657.jpg",
+    "index": 657,
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0000658",
+    "filename": "image_0000658.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000658.jpg",
+    "index": 658,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0000659",
+    "filename": "image_0000659.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000659.jpg",
+    "index": 659,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0000660",
+    "filename": "image_0000660.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000660.jpg",
+    "index": 660,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0000661",
+    "filename": "image_0000661.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0000661.jpg",
+    "index": 661,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 22
+  },
+  {
+    "stem": "image_0001086",
+    "filename": "image_0001086.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001086.jpg",
+    "index": 1086,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001087",
+    "filename": "image_0001087.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001087.jpg",
+    "index": 1087,
+    "labels": [
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001088",
+    "filename": "image_0001088.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001088.jpg",
+    "index": 1088,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001089",
+    "filename": "image_0001089.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001089.jpg",
+    "index": 1089,
+    "labels": [
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001090",
+    "filename": "image_0001090.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001090.jpg",
+    "index": 1090,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001091",
+    "filename": "image_0001091.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001091.jpg",
+    "index": 1091,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001092",
+    "filename": "image_0001092.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001092.jpg",
+    "index": 1092,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001093",
+    "filename": "image_0001093.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001093.jpg",
+    "index": 1093,
+    "labels": [
+      1,
+      0,
+      0,
+      1,
+      1
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001094",
+    "filename": "image_0001094.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001094.jpg",
+    "index": 1094,
+    "labels": [
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001095",
+    "filename": "image_0001095.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001095.jpg",
+    "index": 1095,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001096",
+    "filename": "image_0001096.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001096.jpg",
+    "index": 1096,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001097",
+    "filename": "image_0001097.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001097.jpg",
+    "index": 1097,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001098",
+    "filename": "image_0001098.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001098.jpg",
+    "index": 1098,
+    "labels": [
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001099",
+    "filename": "image_0001099.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001099.jpg",
+    "index": 1099,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001100",
+    "filename": "image_0001100.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001100.jpg",
+    "index": 1100,
+    "labels": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001101",
+    "filename": "image_0001101.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001101.jpg",
+    "index": 1101,
+    "labels": [
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "group_id": 38
+  },
+  {
+    "stem": "image_0001156",
+    "filename": "image_0001156.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001156.jpg",
+    "index": 1156,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001159",
+    "filename": "image_0001159.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001159.jpg",
+    "index": 1159,
+    "labels": [
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001160",
+    "filename": "image_0001160.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001160.jpg",
+    "index": 1160,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001161",
+    "filename": "image_0001161.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001161.jpg",
+    "index": 1161,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001162",
+    "filename": "image_0001162.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001162.jpg",
+    "index": 1162,
+    "labels": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001165",
+    "filename": "image_0001165.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001165.jpg",
+    "index": 1165,
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001166",
+    "filename": "image_0001166.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001166.jpg",
+    "index": 1166,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001167",
+    "filename": "image_0001167.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001167.jpg",
+    "index": 1167,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001168",
+    "filename": "image_0001168.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001168.jpg",
+    "index": 1168,
+    "labels": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001169",
+    "filename": "image_0001169.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001169.jpg",
+    "index": 1169,
+    "labels": [
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001170",
+    "filename": "image_0001170.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001170.jpg",
+    "index": 1170,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001172",
+    "filename": "image_0001172.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001172.jpg",
+    "index": 1172,
+    "labels": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001173",
+    "filename": "image_0001173.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001173.jpg",
+    "index": 1173,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001174",
+    "filename": "image_0001174.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001174.jpg",
+    "index": 1174,
+    "labels": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001176",
+    "filename": "image_0001176.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001176.jpg",
+    "index": 1176,
+    "labels": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001177",
+    "filename": "image_0001177.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001177.jpg",
+    "index": 1177,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 42
+  },
+  {
+    "stem": "image_0001329",
+    "filename": "image_0001329.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001329.jpg",
+    "index": 1329,
+    "labels": [
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001330",
+    "filename": "image_0001330.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001330.jpg",
+    "index": 1330,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001331",
+    "filename": "image_0001331.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001331.jpg",
+    "index": 1331,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001332",
+    "filename": "image_0001332.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001332.jpg",
+    "index": 1332,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001333",
+    "filename": "image_0001333.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001333.jpg",
+    "index": 1333,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001335",
+    "filename": "image_0001335.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001335.jpg",
+    "index": 1335,
+    "labels": [
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001337",
+    "filename": "image_0001337.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001337.jpg",
+    "index": 1337,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001338",
+    "filename": "image_0001338.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001338.jpg",
+    "index": 1338,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001339",
+    "filename": "image_0001339.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001339.jpg",
+    "index": 1339,
+    "labels": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001340",
+    "filename": "image_0001340.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001340.jpg",
+    "index": 1340,
+    "labels": [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001341",
+    "filename": "image_0001341.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001341.jpg",
+    "index": 1341,
+    "labels": [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001342",
+    "filename": "image_0001342.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001342.jpg",
+    "index": 1342,
+    "labels": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001344",
+    "filename": "image_0001344.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001344.jpg",
+    "index": 1344,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001345",
+    "filename": "image_0001345.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001345.jpg",
+    "index": 1345,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001346",
+    "filename": "image_0001346.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001346.jpg",
+    "index": 1346,
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001347",
+    "filename": "image_0001347.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001347.jpg",
+    "index": 1347,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 51
+  },
+  {
+    "stem": "image_0001439",
+    "filename": "image_0001439.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001439.jpg",
+    "index": 1439,
+    "labels": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001440",
+    "filename": "image_0001440.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001440.jpg",
+    "index": 1440,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001441",
+    "filename": "image_0001441.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001441.jpg",
+    "index": 1441,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001443",
+    "filename": "image_0001443.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001443.jpg",
+    "index": 1443,
+    "labels": [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001444",
+    "filename": "image_0001444.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001444.jpg",
+    "index": 1444,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001445",
+    "filename": "image_0001445.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001445.jpg",
+    "index": 1445,
+    "labels": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001447",
+    "filename": "image_0001447.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001447.jpg",
+    "index": 1447,
+    "labels": [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001448",
+    "filename": "image_0001448.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001448.jpg",
+    "index": 1448,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001449",
+    "filename": "image_0001449.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001449.jpg",
+    "index": 1449,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001450",
+    "filename": "image_0001450.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001450.jpg",
+    "index": 1450,
+    "labels": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001451",
+    "filename": "image_0001451.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001451.jpg",
+    "index": 1451,
+    "labels": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001452",
+    "filename": "image_0001452.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001452.jpg",
+    "index": 1452,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001453",
+    "filename": "image_0001453.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001453.jpg",
+    "index": 1453,
+    "labels": [
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001454",
+    "filename": "image_0001454.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001454.jpg",
+    "index": 1454,
+    "labels": [
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001455",
+    "filename": "image_0001455.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001455.jpg",
+    "index": 1455,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001456",
+    "filename": "image_0001456.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001456.jpg",
+    "index": 1456,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "group_id": 57
+  },
+  {
+    "stem": "image_0001493",
+    "filename": "image_0001493.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001493.jpg",
+    "index": 1493,
+    "labels": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 60
+  },
+  {
+    "stem": "image_0001494",
+    "filename": "image_0001494.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001494.jpg",
+    "index": 1494,
+    "labels": [
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "group_id": 60
+  },
+  {
+    "stem": "image_0001495",
+    "filename": "image_0001495.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001495.jpg",
+    "index": 1495,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 60
+  },
+  {
+    "stem": "image_0001496",
+    "filename": "image_0001496.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001496.jpg",
+    "index": 1496,
+    "labels": [
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "group_id": 60
+  },
+  {
+    "stem": "image_0001497",
+    "filename": "image_0001497.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001497.jpg",
+    "index": 1497,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 60
+  },
+  {
+    "stem": "image_0001498",
+    "filename": "image_0001498.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001498.jpg",
+    "index": 1498,
+    "labels": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "group_id": 60
+  },
+  {
+    "stem": "image_0001499",
+    "filename": "image_0001499.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001499.jpg",
+    "index": 1499,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "group_id": 60
+  },
+  {
+    "stem": "image_0001501",
+    "filename": "image_0001501.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001501.jpg",
+    "index": 1501,
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "group_id": 60
+  },
+  {
+    "stem": "image_0001502",
+    "filename": "image_0001502.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001502.jpg",
+    "index": 1502,
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "group_id": 60
+  },
+  {
+    "stem": "image_0001503",
+    "filename": "image_0001503.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001503.jpg",
+    "index": 1503,
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "group_id": 60
+  },
+  {
+    "stem": "image_0001504",
+    "filename": "image_0001504.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001504.jpg",
+    "index": 1504,
+    "labels": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "group_id": 60
+  },
+  {
+    "stem": "image_0001505",
+    "filename": "image_0001505.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001505.jpg",
+    "index": 1505,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 60
+  },
+  {
+    "stem": "image_0001506",
+    "filename": "image_0001506.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001506.jpg",
+    "index": 1506,
+    "labels": [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "group_id": 60
+  },
+  {
+    "stem": "image_0001507",
+    "filename": "image_0001507.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001507.jpg",
+    "index": 1507,
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    "group_id": 60
+  },
+  {
+    "stem": "image_0001508",
+    "filename": "image_0001508.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001508.jpg",
+    "index": 1508,
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "group_id": 60
+  },
+  {
+    "stem": "image_0001510",
+    "filename": "image_0001510.jpg",
+    "image_path": "C:\\Users\\nithi\\Projects\\AI-Assessment\\task1_dataset\\CODEBRIM_original_images\\original_dataset\\images\\image_0001510.jpg",
+    "index": 1510,
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "group_id": 60
+  }
+]

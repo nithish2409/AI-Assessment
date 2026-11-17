@@ -1,0 +1,93 @@
+{
+  "timestamp": "2026-11-16 09:54:11",
+  "hardware": "NVIDIA GeForce RTX 4060 Laptop GPU (8 GB VRAM)",
+  "model": "YOLO26s-seg",
+  "tests": {
+    "identical_control": {
+      "status_code": 200,
+      "alignment_status": "accepted",
+      "alignment_method": "NONE",
+      "valid_overlap_pct": 100.0,
+      "ssim_score": 1.0,
+      "visual_change_pct": 0.0,
+      "before_crack_pixels": 7042,
+      "after_crack_pixels": 7042,
+      "persistent_pixels": 7042,
+      "newly_observed_pixels": 0,
+      "no_longer_observed_pixels": 0,
+      "coverage_change_pp": 0.0,
+      "e2e_latency_ms": 682.53,
+      "stage_timings": {
+        "total_duration_ms": 656.66,
+        "alignment_ms": 0.43,
+        "ssim_ms": 31.38,
+        "yolo_before_ms": 237.5,
+        "yolo_after_ms": 154.09,
+        "crack_comparison_ms": 6.34,
+        "visualization_ms": 14.33
+      }
+    },
+    "synthetically_transformed": {
+      "status_code": 200,
+      "alignment_status": "accepted",
+      "alignment_method": "SIFT",
+      "inliers": 1081,
+      "inlier_ratio": 0.9982,
+      "reprojection_error": 0.0997,
+      "valid_overlap_pct": 97.6152,
+      "ssim_score": 0.9983,
+      "persistent_pixels": 6814,
+      "newly_observed_pixels": 684,
+      "tolerance_adjusted_new_pixels": 8,
+      "e2e_latency_ms": 768.22,
+      "stage_timings": {
+        "total_duration_ms": 763.36,
+        "alignment_ms": 295.72,
+        "ssim_ms": 21.94,
+        "yolo_before_ms": 40.37,
+        "yolo_after_ms": 57.29,
+        "crack_comparison_ms": 6.12,
+        "visualization_ms": 14.52
+      }
+    },
+    "crack_progression": {
+      "status_code": 200,
+      "alignment_status": "accepted",
+      "ssim_score": 0.9817,
+      "visual_change_pct": 1.97,
+      "before_crack_pixels": 7042,
+      "after_crack_pixels": 8731,
+      "before_coverage_pct": 4.0692,
+      "after_coverage_pct": 5.0452,
+      "coverage_change_pp": 0.976,
+      "persistent_pixels": 5233,
+      "newly_observed_pixels": 3498,
+      "tolerance_adjusted_new_pixels": 3426,
+      "potential_new_components": 1,
+      "potential_expanded_components": 0,
+      "e2e_latency_ms": 594.76,
+      "stage_timings": {
+        "total_duration_ms": 586.34,
+        "alignment_ms": 108.32,
+        "ssim_ms": 26.89,
+        "yolo_before_ms": 67.47,
+        "yolo_after_ms": 42.47,
+        "crack_comparison_ms": 5.53,
+        "visualization_ms": 15.08
+      }
+    },
+    "unrelated_rejection": {
+      "status_code": 422,
+      "error_code": "ALIGNMENT_FAILED",
+      "message": "Image alignment failed. Use photos showing the same surface with sufficient visible shared details and similar viewpoints.",
+      "attempted_methods": [
+        "SIFT",
+        "AKAZE",
+        "ORB"
+      ],
+      "guidance": "Ensure both photographs show the same building surface from a similar viewpoint with visible shared texture. If images are already geometrically aligned, you may specify alignment_mode='direct'.",
+      "rejection_confirmed": true,
+      "e2e_latency_ms": 98.82
+    }
+  }
+}

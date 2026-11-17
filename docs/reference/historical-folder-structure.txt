@@ -1,0 +1,31 @@
+AI-Assessment/
+│
+├── backend/
+│   ├── app/
+│   │   ├── main.py
+│   │   ├── api/
+│   │   │   ├── nlp.py
+│   │   │   ├── image_comparison.py
+│   │   │   └── damage_detection.py
+│   │   ├── services/
+│   │   │   └── nlp_service.py
+│   │   └── schemas/
+│   │       └── nlp.py
+│   ├── models/
+│   ├── data/
+│   ├── requirements.txt
+│   └── train_model.py
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   │   ├── NLPTask.jsx
+│   │   │   ├── ImageComparison.jsx
+│   │   │   └── DamageDetection.jsx
+│   │   ├── services/
+│   │   │   └── api.js
+│   │   └── App.jsx
+│   └── package.json
+│
+└── README.md

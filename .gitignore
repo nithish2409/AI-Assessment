@@ -1,0 +1,93 @@
+# ==============================================================================
+# Python Virtual Environments & Interpreter Caches
+# ==============================================================================
+venv/
+venv_yolo/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# ==============================================================================
+# Frontend Dependencies & Bundler Outputs
+# ==============================================================================
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/coverage/
+*.tsbuildinfo
+
+# ==============================================================================
+# Local Environment Variables & Secrets
+# ==============================================================================
+.env
+.env.*
+!.env.example
+*.local
+*.pem
+*.key
+*.pfx
+credentials.json
+service-account*.json
+kaggle.json
+
+# ==============================================================================
+# Historical Datasets, Training Caches & Historical Overlays (Excluded)
+# ==============================================================================
+/task1_dataset/
+/datasets/
+/backups/
+/reports/task1_rebuild/
+/reports/task1_removal/
+/reports/local-smoke/
+backend/data/
+backend/runs/
+runs/
+wandb/
+
+# ==============================================================================
+# Model Weights Whitelist
+# (Exclude generic binary weights, but explicitly preserve production models)
+# ==============================================================================
+*.bin
+*.ckpt
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Preserved production model checkpoints and offline CLIP cache
+!backend/models/damage/crack_segmentation_best.pt
+!backend/models/damage/industrial_defect_yolo26s.pt
+!backend/models/damage/codebrim_multilabel_best.pt
+!backend/models/yolov8s-worldv2.pt
+!backend/models/news_classifier.joblib
+!weights/clip/ViT-B-32.pt
+
+# ==============================================================================
+# Reports Whitelist
+# ==============================================================================
+!reports/task1_final/
+
+# ==============================================================================
+# OS & Editor Artifacts
+# ==============================================================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log
+npm-debug.log*

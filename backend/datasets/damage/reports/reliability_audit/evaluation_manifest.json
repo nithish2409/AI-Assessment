@@ -1,0 +1,42 @@
+{
+  "created_at": "2026-11-16 10:04:18",
+  "source_images_count": 10,
+  "source_images": [
+    "1616.rf.c868709931a671796794fdbb95352c5a",
+    "2222.rf.bfd72b1a6235ed53983e11289c619b4e",
+    "2274.rf.5712706f169ad5ab788f546227533d28",
+    "1686.rf.809fb1b51c607e5cf787e44ef4ddd7b8",
+    "2205.rf.eaf969e5ee1bad463953679d0f0a317f",
+    "2400.rf.e2dbfc7baf8e55f3ee71cde186d199c2",
+    "1716.rf.85ea38b36008beaa72c5d8541f734eb0",
+    "1804.rf.7e39a73f7b0d1c4bdf8094006e0cf495",
+    "1813.rf.79f1af872f76dd8b46df4a83ed5f54c6",
+    "1957.rf.e4ee900c82e7bab356690f56f27959c6"
+  ],
+  "groups": {
+    "A_no_change_conditions": [
+      "identical",
+      "translation",
+      "small_rotation",
+      "mild_perspective",
+      "brightness",
+      "contrast",
+      "gamma",
+      "gaussian_noise",
+      "mild_blur",
+      "jpeg_compression",
+      "combined"
+    ],
+    "B_synthetic_progression_conditions": [
+      "new_isolated_crack",
+      "crack_extension",
+      "increased_width",
+      "multiple_branches",
+      "small_addition",
+      "large_addition",
+      "no_longer_visible",
+      "progression_with_transform"
+    ],
+    "C_unrelated_pairs_count": 10
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "total_annotated_records": 1052,
+  "train_count": 732,
+  "val_count": 160,
+  "test_count": 160,
+  "num_groups": 66,
+  "group_block_size": 16,
+  "classes": [
+    "Crack",
+    "Spallation",
+    "CorrosionStain",
+    "ExposedBars",
+    "Efflorescence"
+  ],
+  "random_seed": 42,
+  "split_manifest_hashes": {
+    "train": "15e9a8e1a39188124388244dea9a30a44b327dc6545e8bf2261679014e4e233a",
+    "val": "6b28e63020ea5780ec497662d8ae9df7d745a2cf6233f13e214c2327eb4a434a",
+    "test": "9f02f8bb952f43198eae6e5de6f5f52c65101baad69e0985f58de84378bb089e"
+  }
+}

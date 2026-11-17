@@ -1,0 +1,6 @@
+threshold_name,threshold_pp,total_eval_pairs,accepted_pairs,rejected_pairs,false_alerts,false_positive_rate,fpr_pct,ci_95_lower,ci_95_upper
+Legacy Baseline (0.15 pp),0.15,220,220,0,59,0.2682,26.82,0.214,0.3303
+Phase 4.1 Threshold (0.89 pp),0.89,220,220,0,14,0.0636,6.36,0.0383,0.104
+Frozen Calibration P90 (0.2604 pp),0.2604,220,220,0,43,0.1955,19.55,0.1485,0.2529
+Frozen Calibration P95 (0.3912 pp),0.3912,220,220,0,31,0.1409,14.09,0.1011,0.1931
+Frozen Calibration Max (1.0737 pp),1.0737,220,220,0,10,0.0455,4.55,0.0249,0.0816

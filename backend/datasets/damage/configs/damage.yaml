@@ -1,0 +1,10 @@
+# Damage Segmentation Dataset Configuration (Single-Class: Crack)
+# Prepared for YOLO26 segmentation training
+
+path: C:/Users/nithi/Projects/AI-Assessment/backend/datasets/damage/processed
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: crack

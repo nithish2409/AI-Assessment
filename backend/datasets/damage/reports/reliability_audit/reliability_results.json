@@ -1,0 +1,92 @@
+{
+  "timestamp": "2026-11-16 10:08:52",
+  "unique_source_images": 10,
+  "no_change_total_pairs": 110,
+  "no_change_accepted_pairs": 110,
+  "no_change_rejection_rate_pct": 0.0,
+  "unrelated_rejection_rate_pct": 100.0,
+  "empirical_no_change_distribution_pp": {
+    "mean": 0.2974,
+    "median": 0.068,
+    "std": 0.5543,
+    "p90": 0.8905,
+    "p95": 1.6514,
+    "p99": 2.6249,
+    "max": 2.8199,
+    "fpr_at_0_15_pp": 0.3455,
+    "bootstrap_95_ci_p95": [
+      0.3665,
+      2.0907
+    ]
+  },
+  "tolerance_sweep_results": [
+    {
+      "tolerance_px": 0,
+      "fp_pixels": 863.125,
+      "fn_pixels": 323.5,
+      "precision": 0.3248075,
+      "recall": 0.7107625,
+      "f1_score": 0.4363125,
+      "change_mask_iou": 0.3101575,
+      "raw_newly_observed_pixels": 1454.375,
+      "tolerance_adjusted_new_pixels": 1454.375
+    },
+    {
+      "tolerance_px": 1,
+      "fp_pixels": 863.125,
+      "fn_pixels": 323.5,
+      "precision": 0.3248075,
+      "recall": 0.7107625,
+      "f1_score": 0.4363125,
+      "change_mask_iou": 0.3101575,
+      "raw_newly_observed_pixels": 1454.375,
+      "tolerance_adjusted_new_pixels": 1208.925
+    },
+    {
+      "tolerance_px": 2,
+      "fp_pixels": 863.125,
+      "fn_pixels": 323.5,
+      "precision": 0.3248075,
+      "recall": 0.7107625,
+      "f1_score": 0.4363125,
+      "change_mask_iou": 0.3101575,
+      "raw_newly_observed_pixels": 1454.375,
+      "tolerance_adjusted_new_pixels": 1170.65
+    },
+    {
+      "tolerance_px": 3,
+      "fp_pixels": 863.125,
+      "fn_pixels": 323.5,
+      "precision": 0.3248075,
+      "recall": 0.7107625,
+      "f1_score": 0.4363125,
+      "change_mask_iou": 0.3101575,
+      "raw_newly_observed_pixels": 1454.375,
+      "tolerance_adjusted_new_pixels": 1156.15
+    },
+    {
+      "tolerance_px": 4,
+      "fp_pixels": 863.125,
+      "fn_pixels": 323.5,
+      "precision": 0.3248075,
+      "recall": 0.7107625,
+      "f1_score": 0.4363125,
+      "change_mask_iou": 0.3101575,
+      "raw_newly_observed_pixels": 1454.375,
+      "tolerance_adjusted_new_pixels": 1142.7
+    },
+    {
+      "tolerance_px": 5,
+      "fp_pixels": 863.125,
+      "fn_pixels": 323.5,
+      "precision": 0.3248075,
+      "recall": 0.7107625,
+      "f1_score": 0.4363125,
+      "change_mask_iou": 0.3101575,
+      "raw_newly_observed_pixels": 1454.375,
+      "tolerance_adjusted_new_pixels": 1131.25
+    }
+  ],
+  "recommended_calibrated_noise_floor_pp": 1.6514,
+  "recommended_tolerance_px": 2
+}
